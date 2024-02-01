@@ -1,4 +1,4 @@
-# simple k3d cluster with config
+# simple k3d cluster with docker registry
 
 This creates a simple k3d cluster with a docker registry.
 
